@@ -1,0 +1,40 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+target/*
+
+# Compiled class file
+*.class
+
+# Log files
+logs/
+
+# Maven
+/.mvn
+
+# Gradle
+.gradle/
+/build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Spring Boot
+spring-boot-starter-parent.iml
+
+# IntelliJ IDEA code style settings
+*.xml
+!.idea/codeStyles/*.xml
+
+# Visual Studio Code
+.vscode/
+*/src/main/resources/static/doc/*
+dist/
+nginx/log/
+/file
+/*.tar
