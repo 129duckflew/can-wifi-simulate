@@ -29,6 +29,7 @@ spring-boot-starter-parent.iml
 
 # IntelliJ IDEA code style settings
 *.xml
+!pom.xml
 !.idea/codeStyles/*.xml
 
 # Visual Studio Code
